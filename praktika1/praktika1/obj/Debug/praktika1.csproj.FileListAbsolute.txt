@@ -1,0 +1,6 @@
+D:\praktika1\praktika1\bin\Debug\praktika1.exe.config
+D:\praktika1\praktika1\bin\Debug\praktika1.exe
+D:\praktika1\praktika1\bin\Debug\praktika1.pdb
+D:\praktika1\praktika1\obj\Debug\praktika1.csproj.CoreCompileInputs.cache
+D:\praktika1\praktika1\obj\Debug\praktika1.exe
+D:\praktika1\praktika1\obj\Debug\praktika1.pdb

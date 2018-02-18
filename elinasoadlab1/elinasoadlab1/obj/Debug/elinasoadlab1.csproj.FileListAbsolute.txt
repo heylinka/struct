@@ -1,0 +1,14 @@
+c:\users\ireki\source\repos\elinasoadlab1\elinasoadlab1\bin\Debug\elinasoadlab1.exe.config
+c:\users\ireki\source\repos\elinasoadlab1\elinasoadlab1\bin\Debug\elinasoadlab1.exe
+c:\users\ireki\source\repos\elinasoadlab1\elinasoadlab1\bin\Debug\elinasoadlab1.pdb
+c:\users\ireki\source\repos\elinasoadlab1\elinasoadlab1\obj\Debug\elinasoadlab1.csprojResolveAssemblyReference.cache
+c:\users\ireki\source\repos\elinasoadlab1\elinasoadlab1\obj\Debug\elinasoadlab1.csproj.CoreCompileInputs.cache
+c:\users\ireki\source\repos\elinasoadlab1\elinasoadlab1\obj\Debug\elinasoadlab1.exe
+c:\users\ireki\source\repos\elinasoadlab1\elinasoadlab1\obj\Debug\elinasoadlab1.pdb
+D:\elina\elinasoadlab1\elinasoadlab1\bin\Debug\elinasoadlab1.exe.config
+D:\elina\elinasoadlab1\elinasoadlab1\bin\Debug\elinasoadlab1.exe
+D:\elina\elinasoadlab1\elinasoadlab1\bin\Debug\elinasoadlab1.pdb
+D:\elina\elinasoadlab1\elinasoadlab1\obj\Debug\elinasoadlab1.csprojResolveAssemblyReference.cache
+D:\elina\elinasoadlab1\elinasoadlab1\obj\Debug\elinasoadlab1.csproj.CoreCompileInputs.cache
+D:\elina\elinasoadlab1\elinasoadlab1\obj\Debug\elinasoadlab1.exe
+D:\elina\elinasoadlab1\elinasoadlab1\obj\Debug\elinasoadlab1.pdb
